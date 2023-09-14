@@ -1,0 +1,58 @@
+﻿@page
+@model IntroduccionRazorPages.Pages.CondicionalesModel
+
+
+@{
+    var calificacion = 8;
+}
+
+<h3>Instrucciones Condicionales</h3>
+<p>Tu calificación es de: @calificacion</p>
+@if(calificacion >=8)
+{
+    <p>Tú estado es aprobado</p>
+}
+else
+{
+    <p>Tú estado es reprobado</p>
+}
+
+@{
+    var precio = 25;
+}
+<p>El precio del producto es @precio</p>
+@if(precio >=30)
+{
+    <p>El precio es Alto</p>
+}
+else if(precio>20 && precio<30)
+{
+    <p>El precio esta bien.</p>
+}
+else
+{
+    <p>El precio es bajo.</p>
+}
+
+<h3>Condicionales Múltiples switch-case</h3>
+@{
+    var diaSemana = DateTime.Now.DayOfWeek;
+    var dia = diaSemana.ToString();
+    var mensaje = "";
+}
+@switch(dia)
+{
+    case "Monday":
+        mensaje = "Este es el primer día de la semana";
+        break;
+    case "Thursday":
+        mensaje = "Solo falta un día para el viernes (juevebes)";
+        break;
+    case "Friday":
+        mensaje = "Hoy es viernes y el cuerpo ....... (viernes social)";
+        break;
+    default:
+        mensaje = "Aún falta para el viernes social:(";
+        break;
+}
+<p>@mensaje</p>

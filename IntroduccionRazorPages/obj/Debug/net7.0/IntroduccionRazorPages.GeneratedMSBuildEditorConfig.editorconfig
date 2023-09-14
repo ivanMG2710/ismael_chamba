@@ -1,0 +1,77 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = IntroduccionRazorPages
+build_property.RootNamespace = IntroduccionRazorPages
+build_property.ProjectDir = C:\Users\27135\source\repos\IntroduccionRazorPages\IntroduccionRazorPages\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\27135\source\repos\IntroduccionRazorPages\IntroduccionRazorPages
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/27135/source/repos/IntroduccionRazorPages/IntroduccionRazorPages/Pages/arreglos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcYXJyZWdsb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/27135/source/repos/IntroduccionRazorPages/IntroduccionRazorPages/Pages/Ciclos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2ljbG9zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/27135/source/repos/IntroduccionRazorPages/IntroduccionRazorPages/Pages/Condicionales.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29uZGljaW9uYWxlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/27135/source/repos/IntroduccionRazorPages/IntroduccionRazorPages/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/27135/source/repos/IntroduccionRazorPages/IntroduccionRazorPages/Pages/FormularioContacto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRm9ybXVsYXJpb0NvbnRhY3RvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/27135/source/repos/IntroduccionRazorPages/IntroduccionRazorPages/Pages/HolaMundo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9sYU11bmRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/27135/source/repos/IntroduccionRazorPages/IntroduccionRazorPages/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/27135/source/repos/IntroduccionRazorPages/IntroduccionRazorPages/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/27135/source/repos/IntroduccionRazorPages/IntroduccionRazorPages/Pages/programa1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNccHJvZ3JhbWExLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/27135/source/repos/IntroduccionRazorPages/IntroduccionRazorPages/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/27135/source/repos/IntroduccionRazorPages/IntroduccionRazorPages/Pages/SintaxisBasica.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2ludGF4aXNCYXNpY2EuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/27135/source/repos/IntroduccionRazorPages/IntroduccionRazorPages/Pages/SumaNumeros.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3VtYU51bWVyb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/27135/source/repos/IntroduccionRazorPages/IntroduccionRazorPages/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/27135/source/repos/IntroduccionRazorPages/IntroduccionRazorPages/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/27135/source/repos/IntroduccionRazorPages/IntroduccionRazorPages/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-rs3ho2tdkh

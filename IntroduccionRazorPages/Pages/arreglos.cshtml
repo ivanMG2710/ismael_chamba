@@ -1,0 +1,21 @@
+﻿@page
+@model IntroduccionRazorPages.Pages.arreglosModel
+
+
+@{
+    //Definimos un arreglo de datos string
+    string[] nombres = { "Messi", "Cristiano", "Kylian", "Iniesta", "Haaland" };
+    int index = Array.IndexOf(nombres, "Messi");
+    int len = nombres.Length;
+
+}
+
+<h4>Lista de nombres:</h4>
+<ol>
+    @foreach(var nombre in nombres)
+    {
+        <li>@nombre</li>
+    }
+</ol>
+<p>El número de personas en nombres es: @len</p>
+<p>Iniesta se encuentra en la posición: @index</p>
